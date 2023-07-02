@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" alt="game developer" style="max-width: 100%; height: auto; clip-path: inset(150px 0);">
+  <img src="https://www.rivellomultimediaconsulting.com/wp-content/uploads/2013/07/unity_intro_banner_v1.png" alt="game developer" style="max-width: 100%; height: auto; clip-path: inset(150px 0);">
 </div>
 
 
