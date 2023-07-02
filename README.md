@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umut "Kilexter" Kurtoğlu</h1>
 <h3 align="center">I am a game developer and game designer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilexter&label=Profile%20views&color=0e75b6&style=flat" alt="kilexter" /> </p>
-
- <div style="text-align: center;">
-  <img src="https://cdna.artstation.com/p/assets/covers/images/051/384/574/large/shane-lee-littlewood-shane-lee-littlewood-asset-49.jpg?1657151915" alt="game developer" style="max-width: 100%; height: auto;">
+<div style="text-align: center;">
+  <img src="https://cdna.artstation.com/p/assets/covers/images/051/384/574/large/shane-lee-littlewood-shane-lee-littlewood-asset-49.jpg?1657151915" alt="game developer" style="max-width: 100%; height: auto; margin-top: -150px; margin-bottom: -150px;">
 </div>
 
 
