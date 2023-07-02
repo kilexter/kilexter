@@ -2,8 +2,7 @@
 <h3 align="center">I am a game developer and game designer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilexter&label=Profile%20views&color=0e75b6&style=flat" alt="kilexter" /> </p>
 
-  <img src="https://thumbs.dreamstime.com/b/game-developer-typographic-header-creative-process-computer-video-design-digital-technology-programming-codding-isolated-196298905.jpg?w=1600
-" alt="game developer" width="300">
+  <img src="https://cdna.artstation.com/p/assets/covers/images/051/384/574/large/shane-lee-littlewood-shane-lee-littlewood-asset-49.jpg?1657151915" alt="game developer" width="300">
 
 
 - 🌱 I’m currently learning **Unity C#**
