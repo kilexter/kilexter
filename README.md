@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilexter&label=Profile%20views&color=0e75b6&style=flat" alt="kilexter" /> </p>
 
 <div style="text-align: center;">
-  <img src="https://cdna.artstation.com/p/assets/covers/images/051/384/574/large/shane-lee-littlewood-shane-lee-littlewood-asset-49.jpg?1657151915" alt="game developer" style="height: 160px; display: block; margin: 0 auto;">
+  <img src="https://cdna.artstation.com/p/assets/covers/images/051/384/574/large/shane-lee-littlewood-shane-lee-littlewood-asset-49.jpg?1657151915" alt="game developer" style="max-width: 100%; height: auto; clip-path: inset(150px 0);">
 </div>
+
 
 
 
