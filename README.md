@@ -2,9 +2,9 @@
 <h3 align="center">I am a game developer and game designer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilexter&label=Profile%20views&color=0e75b6&style=flat" alt="kilexter" /> </p>
 
-<div style="text-align: center;">
-  <img src="[https://c4.wallpaperflare.com/wallpaper/106/749/83/while-true-learn-video-games-video-game-art-hd-wallpaper-thumb.jpg](https://thumbs.dreamstime.com/b/game-developer-typographic-header-creative-process-computer-video-design-digital-technology-programming-codding-isolated-196298905.jpg?w=1600)" alt="game developer" width="300">
-</div>
+  <img src="https://thumbs.dreamstime.com/b/game-developer-typographic-header-creative-process-computer-video-design-digital-technology-programming-codding-isolated-196298905.jpg?w=1600
+" alt="game developer" width="300">
+
 
 - 🌱 I’m currently learning **Unity C#**
 
