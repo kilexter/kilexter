@@ -25,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilexter&show_icons=true&locale=en&layout=compact" alt="kilexter" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kilexter&show_icons=true&locale=en" alt="kilexter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kilexter&" alt="kilexter" /></p>
