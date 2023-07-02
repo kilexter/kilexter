@@ -1,6 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kilexter&label=Profile%20views&color=0e75b6&style=flat" alt="kilexter" /> </p>
+
 <h1 align="center">Hi 👋, I'm Umut "Kilexter" Kurtoğlu</h1>
 <h3 align="center">I am a game developer and game designer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kilexter&label=Profile%20views&color=0e75b6&style=flat" alt="kilexter" /> </p>
 
 <div style="text-align: center;">
   <img src="https://cdna.artstation.com/p/assets/covers/images/051/384/574/large/shane-lee-littlewood-shane-lee-littlewood-asset-49.jpg?1657151915" alt="game developer" style="max-width: 100%; height: auto; clip-path: inset(150px 0);">
@@ -24,6 +25,6 @@
 <img src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp" alt="GIPHY Image" style="float: right; margin-left: 10px;">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilexter&show_icons=true&locale=en&layout=compact" alt="kilexter" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kilexter&show_icons=true&locale=en" alt="kilexter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kilexter&" alt="kilexter" /></p>
