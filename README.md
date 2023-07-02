@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umut "Kilexter" Kurtoğlu</h1>
 <h3 align="center">I am a game developer and game designer.</h3>
-<img src="https://c4.wallpaperflare.com/wallpaper/106/749/83/while-true-learn-video-games-video-game-art-hd-wallpaper-thumb.jpg" alt="game developer" width="300">
-
+<div style="text-align: center;">
+  <img src="https://c4.wallpaperflare.com/wallpaper/106/749/83/while-true-learn-video-games-video-game-art-hd-wallpaper-thumb.jpg" alt="game developer" width="300">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilexter&label=Profile%20views&color=0e75b6&style=flat" alt="kilexter" /> </p>
 
 - 🌱 I’m currently learning **Unity C#**
