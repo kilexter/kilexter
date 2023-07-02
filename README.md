@@ -20,8 +20,7 @@
 <a href="https://linkedin.com/in/umut-kurtoğlu-2b4197197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-kurtoğlu-2b4197197" height="30" width="40" /></a>
 </p>
 
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-<p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp" alt="GIPHY Image">
 
 
 
