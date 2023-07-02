@@ -5,14 +5,13 @@
 
 - 🌱 I’m currently learning **Unity C#**
 
+- 👾 All of my game projects are available at [https://kilexter.itch.io](https://kilexter.itch.io)
+
 - 📫 How to reach me **umutkurtoglu28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/umut-kurtoğlu-2b4197197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umut-kurtoğlu-2b4197197/" height="30" width="40" /></a>
-<a href="https://instagram.com/kilexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kilexter" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnzvtp1yaoehipbvvmoy5ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnzvtp1yaoehipbvvmoy5ma" height="30" width="40" /></a>
-<a href="https://discord.gg/kilexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kilexter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umut-kurtoğlu-2b4197197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-kurtoğlu-2b4197197" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
